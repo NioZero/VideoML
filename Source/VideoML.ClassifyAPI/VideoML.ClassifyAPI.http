@@ -1,0 +1,6 @@
+@VideoML.ClassifyAPI_HostAddress = http://localhost:5280
+
+GET {{VideoML.ClassifyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
