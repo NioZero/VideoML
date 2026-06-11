@@ -7,7 +7,9 @@
   </Folder>
   <Folder Name="/2 Services/">
     <Project Path="VideoML.Core/VideoML.Core.csproj" Id="57a473e4-2a47-4625-99d4-ea08e231c778" />
-    <Project Path="VideoML.Data/VideoML.Data.csproj" />
     <Project Path="VideoML.Services/VideoML.Services.csproj" />
+  </Folder>
+  <Folder Name="/3 Persistence/">
+    <Project Path="VideoML.Data/VideoML.Data.csproj" />
   </Folder>
 </Solution>
